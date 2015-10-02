@@ -1,5 +1,7 @@
 # gif storage
 
+[![Join the chat at https://gitter.im/dirkkelly/gifs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dirkkelly/gifs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Storage place for all my favorite gifs.
 
 ![aha](aha/aha.gif)
